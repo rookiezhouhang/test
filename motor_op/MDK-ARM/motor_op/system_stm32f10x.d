@@ -1,0 +1,9 @@
+motor_op\system_stm32f10x.o: RTE/Device/STM32F103RB/system_stm32f10x.c
+motor_op\system_stm32f10x.o: D:\Keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+motor_op\system_stm32f10x.o: .\RTE\_motor_op\RTE_Components.h
+motor_op\system_stm32f10x.o: ../Drivers/CMSIS/Include/core_cm3.h
+motor_op\system_stm32f10x.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+motor_op\system_stm32f10x.o: ../Drivers/CMSIS/Include/cmsis_version.h
+motor_op\system_stm32f10x.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+motor_op\system_stm32f10x.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+motor_op\system_stm32f10x.o: D:\Keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h
